@@ -1,0 +1,3 @@
+Insert into OMATOME_EVENT_CALENDAR (EVENT_TYPE,START_DATE,END_DATE) values ('Shopping Marathon 1',to_date('20220509','YYYYMMDD'),to_date('20220516','YYYYMMDD'));
+Insert into OMATOME_EVENT_CALENDAR (EVENT_TYPE,START_DATE,END_DATE) values ('Shopping Marathon 2',to_date('20220523','YYYYMMDD'),to_date('20220527','YYYYMMDD'));
+COMMIT;
